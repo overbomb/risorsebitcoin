@@ -139,7 +139,11 @@ Partiamo!
         - Portal hardware wallet
         	- https://www.youtube.com/watch?v=jYUt-caBWdA&t=3s
          - Intervista all'avv. Martina Granatiero su Mica e regolamento Europeo
-         	- https://www.youtube.com/watch?v=Nz6KwJbSNXU 
+         	- https://www.youtube.com/watch?v=Nz6KwJbSNXU
+         - Guybrush "Bitcoin e crittografia: libertà matematica!"
+              - https://www.youtube.com/watch?v=lDwyBHdouvI
+         - Crittografia a chiave pubblica - Massimo Musumeci
+              - https://www.youtube.com/watch?v=kGSFNxle3eQ
  	 - Canale Youtube di Alessandro Ottaviani: https://www.youtube.com/@alessandroottavianibitcoin4381
 	- Canale Youtube Cultura Bitcoin: https://www.youtube.com/@cryptoconsulting1984
 	- Canale Youtube Final Step Bitcoin: https://www.youtube.com/watch?v=jdNcEERUmps
@@ -163,7 +167,9 @@ Partiamo!
     	- Un'analisi delle diverse fee rates
     		- https://btcita.substack.com/p/alla-polvere-ritornerai
       - Presentazioni di Anil in Ita
-      	- https://loop-btc.github.io/anil/	
+      	- https://loop-btc.github.io/anil/
+      - Trascrizione episodi del podcast "The Bitcoin Standard" di Saifedean Ammous
+        - https://github.com/overbomb/Traduzione-episodi-podcast-Saifedean-Ammous/tree/main/EPISODI
  
 
             
@@ -244,6 +250,9 @@ Partiamo!
        		- https://medium.com/@alessandro.ottaviani84/capire-bitcoin-nel-2023-4b4633ba8696
 		- Il mondo ha bisogno di LN
 			- https://www.musclesatz.com/it/articles/il-mondo-ha-bisogno-di-lightning-network/
+       - La linea del tempo di Bitcoin
+       		- https://github.com/overbomb/Storico-Bitcoin/tree/main
+                     
 
 		- ATLAS21: news, editoriali, formazione
 			- https://atlas21.com/it/
@@ -344,7 +353,7 @@ Partiamo!
         - https://t.me/LightningNodes
         - https://t.me/bitaxe_italia
         - https://t.me/ventunobtc
-   
+        - https://t.me/librilibertari
         
     - #### **3c - Social**
     	- Lista: chi seguire su X.com https://twitter.com/i/lists/1632780446525161473
